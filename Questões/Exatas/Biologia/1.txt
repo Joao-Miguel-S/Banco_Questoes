@@ -1,0 +1,10 @@
+(UERJ) Algumas embalagens de alimentos apresentam no rótulo a informação “contém glúten”, obrigatória por resolução da Agência Nacional de Vigilância Sanitária (ANVISA). O glúten apresenta, em sua composição, uma molécula que não deve ser consumida por portadores da doença celíaca, uma enfermidade autoimune crônica do intestino delgado. Essa molécula do glúten, inadequada para os celíacos, é classificada como
+lipídeo
+vitamina
+proteína
+carboidrato
+
+C
+
+7
+18

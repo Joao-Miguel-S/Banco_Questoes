@@ -1,0 +1,10 @@
+(UFAL) A localização de um lago, em relação a uma caverna préhistórica, exigia que se caminhasse 200 m numa certa direção e, a seguir, 480 m numa direção perpendicular à primeira. A distância em linha reta, da caverna ao lago era, em metros,
+680
+600
+540
+520
+500
+D
+
+4
+16

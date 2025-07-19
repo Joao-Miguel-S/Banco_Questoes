@@ -1,0 +1,10 @@
+(UNICAMP) A demanda por trens de alta velocidade tem crescido em todo o mundo. Uma preocupação importante no projeto desses trens é o conforto dos passageiros durante a aceleração. Sendo assim, considere que, em uma viagem de trem de alta velocidade, a aceleração experimentada pelos passageiros foi limitada a amax=0,09 g, onde g=10 m/s2 é a aceleração da gravidade. Se o trem acelera a partir do repouso com aceleração constante igual a amax, a distância mínima percorrida pelo trem para atingir uma velocidade de 1080 km/h corresponde a
+10 km
+20 km
+50 km
+100 km
+
+C
+
+5
+24

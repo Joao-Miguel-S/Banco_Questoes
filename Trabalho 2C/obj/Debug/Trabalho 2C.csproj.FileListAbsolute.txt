@@ -1,0 +1,68 @@
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.exe.config
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.AssemblyReference.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormPrincipal.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormInicial.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.Properties.Resources.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.GenerateResource.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.CoreCompileInputs.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormInserir.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormMenuQuestao.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.Visualizar.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormResult.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\criações c#\Trabalho Base\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.Dados.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.exe.config
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\bin\Debug\Trabalho 2C.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.AssemblyReference.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.Dados.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormInserir.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormMenuQuestao.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormPrincipal.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormInicial.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.FormResult.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.Properties.Resources.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho_2C.Visualizar.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.GenerateResource.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.CoreCompileInputs.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\Trabalho Base\Trabalho 2C\obj\Debug\Trabalho 2C.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\bin\Debug\Trabalho 2C.exe.config
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\bin\Debug\Trabalho 2C.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\bin\Debug\Trabalho 2C.pdb
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.AssemblyReference.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.Dados.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.FormInserir.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.FormMenuQuestao.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.FormPrincipal.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.FormInicial.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.FormResult.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.Properties.Resources.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.Visualizar.resources
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.GenerateResource.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.CoreCompileInputs.cache
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho 2C.exe
+C:\Users\jmsde\OneDrive\Área de Trabalho\Projetos C# cp2\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho 2C.pdb
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\bin\Debug\Trabalho 2C.exe.config
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\bin\Debug\Trabalho 2C.exe
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\bin\Debug\Trabalho 2C.pdb
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.AssemblyReference.cache
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho 2C.exe.config
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.Dados.resources
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.FormInserir.resources
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.FormMenuQuestao.resources
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.FormPrincipal.resources
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.FormInicial.resources
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.FormResult.resources
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.Properties.Resources.resources
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho_2C.Visualizar.resources
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.GenerateResource.cache
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho 2C.csproj.CoreCompileInputs.cache
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho 2C.exe
+C:\Users\João Miguel\Desktop\ParaPostar\TrabResolucaodeQuestao\Trabalho 2C\obj\Debug\Trabalho 2C.pdb

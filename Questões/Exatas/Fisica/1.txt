@@ -1,0 +1,10 @@
+(EEAR) Dois vetores V1 e V2 formam entre si um ângulo θ e possuem módulos iguais a 5 unidades e 12 unidades, respectivamente. Se a resultante entre eles tem módulo igual a 13 unidades, podemos afirmar corretamente que o ângulo θ entre os vetores V1 e V2 vale
+0°
+45°
+90°
+180°
+
+C
+
+5
+27

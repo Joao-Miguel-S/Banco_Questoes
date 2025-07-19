@@ -1,0 +1,8 @@
+DDD
+EDB
+3
+\Biologia\4.txt
+\Fisica\0.txt
+\Biologia\3.txt
+1
+0

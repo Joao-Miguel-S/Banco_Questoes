@@ -1,0 +1,9 @@
+DDDE
+CACA
+4
+Fisica\2.txt
+Fisica\3.txt
+Fisica\1.txt
+Fisica\4.txt
+0
+0

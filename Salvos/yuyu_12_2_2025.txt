@@ -1,0 +1,17 @@
+BDEBCDDEBDCC
+CAAACCDEBBCE
+12
+Quimica\1.txt
+Quimica\0.txt
+Fisica\4.txt
+Fisica\3.txt
+Fisica\2.txt
+Fisica\1.txt
+Fisica\0.txt
+Biologia\4.txt
+Biologia\3.txt
+Biologia\2.txt
+Biologia\1.txt
+Biologia\0.txt
+5
+-0,3333333333333333333333333333

@@ -1,0 +1,10 @@
+ESPCEX (AMAN) Um móvel descreve um movimento retilíneo uniformemente acelerado. Ele parte da posição inicial igual a 40 m com uma velocidade de 30 m/s, no sentido contrário à orientação positiva da trajetória, e a sua aceleração é de 10 m/s2 no sentido positivo da trajetória. A posição do móvel no instante 4 s é
+0m
+40m
+80m
+100m
+240m
+A
+
+5
+20

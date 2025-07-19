@@ -1,0 +1,10 @@
+Define-se velocidade escalar média como a razão entre o espaço percorrido e o intervalo de tempo gasto no percurso. A velocidade inicial de um móvel que percorre 100 m, em linha reta, com eletricidade média de 25 m/s e aceleração constante de 1,0 m/s2, em m/s, é igual a:
+28
+25
+20
+30
+23
+A
+
+0
+21
