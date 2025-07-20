@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Linq;
@@ -55,22 +56,26 @@ namespace Trabalho_2C
 
             if (cbmAqr.Text == " " || cbmAqr.Text == null)
                 return;
+            try
+            {
+                StreamReader reader = new StreamReader(diretorioAtual + cbmAqr.Text);
 
-            StreamReader reader = new StreamReader(diretorioAtual + cbmAqr.Text);
+                Resultados = reader.ReadLine();
+                Gabaritos = reader.ReadLine();
+                Total = reader.ReadLine();
 
-            Resultados = reader.ReadLine();
-            Gabaritos = reader.ReadLine();
-            Total = reader.ReadLine();
+                temp = Convert.ToInt32(Total);
+                for (int i = 0; i < temp; i++)
+                    paths.Add(reader.ReadLine());
 
-            temp = Convert.ToInt32(Total);
-            for (int i=0;i< temp; i++)
-                paths.Add(reader.ReadLine());
-            
-            Acertos = reader.ReadLine();
-            MediaTempo= reader.ReadLine();
-            
-            reader.Close();
-            CreateDados(Resultados, Gabaritos, Acertos, MediaTempo, Total, paths);
+                Acertos = reader.ReadLine();
+                MediaTempo = reader.ReadLine();
+
+                reader.Close();
+                CreateDados(Resultados, Gabaritos, Acertos, MediaTempo, Total, paths);
+            }
+            catch (Exception ex) {}
+
         }
 
         private void CreateDados(string Gabaritos, string Resultados, string Acertos, string MediaTempo, string Total,List<string>Path)
